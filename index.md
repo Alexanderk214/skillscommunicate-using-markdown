@@ -1,2 +1,3 @@
 # Changes 
-I add a h1 header hear. 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
